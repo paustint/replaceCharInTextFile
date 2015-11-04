@@ -8,7 +8,7 @@ public class Main {
 	// write your code here
 
         // Read File
-        String fileName = "ctct_revenue_oct2015.csv";
+        String fileName = "input_file.csv";
 
         String line = null;
 
